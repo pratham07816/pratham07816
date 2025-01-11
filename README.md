@@ -1,7 +1,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Rubik+Vinyl&display=swap" rel="stylesheet">
-<h1 align="center" font-style="Caveat">Hi 👋, I'm Pratham G Pawar</h1>
+
+<h1 align="center" style="
+  color: Blue;">Hi 👋, I'm Pratham G Pawar</h1>
 <h3 align="center">A Passionate full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/5SM.gif">
@@ -34,4 +36,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratham07816&show_icons=true&locale=en&layout=compact" alt="pratham07816" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham07816&show_icons=true&locale=en" alt="pratham07816" /></p>
+
+
+
+
+
+
+
+
+
 
