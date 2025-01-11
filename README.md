@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham07816&label=Profile%20views&color=0e75b6&style=flat" alt="pratham07816" /> </p>
 
-- 🌱 I’m currently learning **Big Data Analytics**
+- 🌱 I’m currently pursuing **Big Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratham07816](https://github.com/pratham07816)
 
