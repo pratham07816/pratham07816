@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham07816&label=Profile%20views&color=0e75b6&style=flat" alt="pratham07816" /> </p>
 
-- 🌱 I’m currently pursuing **Big Data Analytics**
+- 🌱 I’m currently learning **Big Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratham07816](https://github.com/pratham07816)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratham.pawar16625@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zY2eiLQv5efJ_bIEFwHJEMBc7D5BZYID?usp=sharing](https://drive.google.com/file/d/17BCAhZqOalqxliwyFtvFuQro7QlOwB-G/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zY2eiLQv5efJ_bIEFwHJEMBc7D5BZYID?usp=sharing](https://drive.google.com/drive/folders/1zY2eiLQv5efJ_bIEFwHJEMBc7D5BZYID?usp=sharing)
 
 - ⚡ Fun fact **Coding is poetry in action.**
 
@@ -23,7 +23,7 @@
 <a href="https://twitter.com/rockstar_what16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rockstar_what16" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratham-g-pawar-a71763256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham-g-pawar-a71763256" height="30" width="40" /></a>
 <a href="https://instagram.com/pratham_g_pawar16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_g_pawar16" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pp8358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pp8358" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@pp8358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pp8358" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham07816&show_icons=true&locale=en" alt="pratham07816" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham07816&" alt="pratham07816" /></p>
 
 
 
