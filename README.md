@@ -1,3 +1,4 @@
+![logo](https://github.com/pratham07816/pratham07816/blob/main/git.jpg)
 <h1 align="center">Hi 👋, I'm Pratham G Pawar</h1>
 <h3 align="center">A Passionate full Stack Developer</h3>
 
