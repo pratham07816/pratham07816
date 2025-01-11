@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pratham07816](https://github.com/pratham07816)
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything but not about Coding ><**
 
 - 📫 How to reach me **pratham.pawar16625@gmail.com**
 
