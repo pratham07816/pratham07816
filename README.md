@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pratham.pawar16625@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zY2eiLQv5efJ_bIEFwHJEMBc7D5BZYID?usp=sharing](https://drive.google.com/file/d/17BCAhZqOalqxliwyFtvFuQro7QlOwB-G/view)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1zY2eiLQv5efJ_bIEFwHJEMBc7D5BZYID?usp=sharing](https://drive.google.com/file/d/15Ro8_Ly4noi2MaTCxctusF9pXnwqXSI0/view?usp=sharing)
 
 - ⚡ Fun fact **Coding is poetry in action.**
 
